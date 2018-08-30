@@ -1,0 +1,4 @@
+intDense	64
+gridWt		0.2
+zFrac		0.5
+dzFrac 		0.2

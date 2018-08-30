@@ -1,0 +1,17 @@
+numStreams	3
+numReachMax	50
+rankAtten	0.5
+x0	0
+xf	5000
+y0	0
+yf	5000
+z0	0
+L0	200
+slopeMean	0.005
+slopeStdev	0.002
+orientStdev	0.196349541
+wMin	10
+wMax	100
+n0	0.32
+K0	1
+junctionMin 	1000.
