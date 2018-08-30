@@ -1,0 +1,7 @@
+hMin 	1e-5
+dt0	1.00E-03
+dhMax	0.1
+dtMax	43200.
+dtf	2.
+tEnd	432000.
+qGWMin 	1e-10
